@@ -197,14 +197,14 @@ html{
 
 
 .planet{
-    background-color: gray;
+    background-image: url('images/dogphoto.jpg') ;
     width: 20em;
     height: 20em;
     box-shadow:
     inset -2em -2em 2em #000,
     -0.5em -0.5em 1em teal;
     position:relative;
-    animation: rotate 1s linear infinite;
+    animation: rotate 2s linear infinite;
     bottom: 10%;
     left: 40%;
     
@@ -225,7 +225,7 @@ html{
 
 .moon{
 
-    background-color: antiquewhite;
+    background-color: lightskyblue;
     width: 8em;
     height: 8em;
     box-shadow: 
